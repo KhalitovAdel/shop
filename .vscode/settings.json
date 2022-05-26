@@ -1,0 +1,15 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "cSpell.words": [
+    "mofi"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.debug": true,
+  "eslint.enable": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.lintTask.options": "${workspaceFolder}/.eslintrc.json",
+  "eslint.run": "onType",
+  "files.autoSave": "onFocusChange",
+  "javascript.format.enable": false
+}
